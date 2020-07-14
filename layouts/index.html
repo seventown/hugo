@@ -9,16 +9,16 @@
         {{.Content}}
         </article>
     
-        <footer>
-        <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
+        <!-- <footer>
+         Note that .Pages is the same as .Site.RegularPages on the homepage template.
         {{ range first 10 .Pages }}
             {{ .Render "summary"}}
         {{ end }}
-        </footer>
+        </footer> -->
     </section>
     
-    <section>
-        <!-- this section is populated by pulling posts from the site -->
+    <!-- <section>
+         this section is populated by pulling posts from the site
         {{ range first 1 (where .Pages.ByPublishDate.Reverse "Section" "posts") }}
             <article>
                 <header>
@@ -39,7 +39,7 @@
     </section>
     
     <section>
-        <!-- this section is populated by pulling articles from the site -->
+        this section is populated by pulling articles from the site
         {{ range first 1 (where .Pages.ByPublishDate.Reverse "Section" "articles") }}
             <article>
                 <header>
@@ -57,7 +57,7 @@
         <footer>
         <a href="{{ "articles/" | absURL }}">All articles...</a>
         </footer>
-    </section> 
+    </section>  -->
 </main>
 
 
