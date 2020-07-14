@@ -1,8 +1,8 @@
 +++
 date = "{{ .Date }}"
-title = "{{ replace .Name "-" " " | title }}"
+title = "first-article"
 type = "post"
 draft = false
 +++
 
-post!
+post
