@@ -1,0 +1,219 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Merriweather");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+@import url("https://fonts.googleapis.com/css?family=Catamaran");
+body {
+  margin: 0;
+  background-color: #eeeeee;
+}
+nav li {
+  display: inline;
+  margin-left: 15px;
+  margin-right: 15px;
+  color: white;
+  font-family: "Catamaran", sans-serif;
+  font-size: 18pt;
+  font-weight: 20;
+}
+nav ul {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  grid-column: 2;
+  margin: auto;
+  height: 50%;
+  justify-content: space-evenly;
+}
+#navbar {
+  background-color: #160030;
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+  grid-template-rows: 60px;
+  position: fixed;
+  top: 0;
+  transition: top 0.3s;
+  width: 100%;
+  z-index: 3;
+}
+.hamburger {
+  grid-column: 1;
+}
+nav img {
+  height: 100%;
+  padding-left: 10px;
+  padding-right:10px;
+  margin-left: 60px;
+  padding-top: 0;
+  padding-bottom: 0;
+  display: inline-block;
+  opacity: 0;
+}
+#header-no-nav {
+  background-image: url("images/backgrounds/background-18.32.png");
+  background-attachment: fixed;
+  background-position: top;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+@keyframes logo_slidein {
+  from {opacity: 0; top: 40px;}
+  to {opacity: 100%; top: 0px;}
+}
+
+#hlogo {
+  height: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  animation-name: logo_slidein;
+  animation-duration: 1.5s;
+  transition: all .2s ease-in-out;
+}
+#hlogo:hover {
+  transform: scale(1.1);
+}
+
+
+main {
+  display: block;
+  width: 60%;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 50px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fcfcfc;
+}
+main h1 {
+  font-size: 50pt;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  color: #0c0016;
+  margin: 0;
+  padding: 15px;
+  padding-left: 0;
+  padding-bottom: 0;
+  text-indent: 20px;
+}
+main h2 {
+  font-size: 24pt;
+  font-family: "Open Sans", sans-serif;
+  font-weight: lighter;
+  color: #353535;
+  margin: 0;
+  padding: 15px;
+  padding-left: 0;
+  padding-top: 0;
+  text-indent: 25px;
+}
+main p {
+  font-size: 14pt;
+  font-family: "Merriweather", serif;
+  color: rgb(10, 0, 27);
+  margin: 0;
+  padding: 15px;
+  text-indent: 2em;
+  line-height: 1.6;
+}
+
+main img {
+  display: block;
+  margin: auto;
+  border-left: solid;
+  border-color: rgb(10, 0, 27);
+  border-left-width: 20px;
+}
+main strong {
+  font-style: bold;
+  color: #160030;
+}
+main em {
+  font-style: italic;
+  color: #160030;
+}
+
+#true-footer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #160030;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  color: rgb(203, 190, 218);
+  font-family: "Catamaran", sans-serif;
+  font-size: 12pt;
+}
+#true-footer>* {
+  place-self: center;
+}
+
+main a {color: rgb(50, 0, 107);}
+main a:hover {color: rgb(112, 62, 168);}
+main a:active {color: rgb(18, 0, 39);}
+main a:visited {color: rgb(50, 0, 107);}
+nav>ul>li>a {color: rgb(255, 255, 255); text-decoration: none;}
+nav>ul>li>a:hover {color: rgb(159, 124, 216); text-decoration: none;}
+nav>ul>li>a:active {color: rgb(198, 177, 221); text-decoration: none;}
+nav>ul>li>a:visited {color: rgb(255, 255, 255); text-decoration: none;}
+#true-footer a {color: rgb(235, 225, 247); text-decoration: none;}
+#true-footer a:hover {color: rgb(188, 174, 204); text-decoration: none;}
+#true-footer a:active {color: rgb(255, 255, 255); text-decoration: none;}
+#true-footer a:visited {color: rgb(188, 174, 204); text-decoration: none;}
+
+@media only screen and (max-device-width: 600px) {
+  #navbar {
+    height: 8vh;
+  }
+  .navlinks {
+    position: fixed;
+    background: #160030;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+
+
+    clip-path: circle(10px at 10% 0%);
+    -webkit-clip-path: circle(10px at 10% 0%);
+    transition: all 0.5s ease-out;
+    pointer-events: none;
+
+  }
+  nav li {
+    font-size: 50pt;
+  }
+  .navlinks.open{
+    clip-path: circle(2400px at 10% 0%);
+    -webkit-clip-path: circle(2400px at 10% 0%);
+    pointer-events: all;
+  }
+
+  .line {
+    width: 70%;
+    height: 0.3vh;
+    background: white;
+    margin: 0.5vh;
+  }
+  .hamburger {
+    position: relative;
+    top: 40%;
+    left: 10%;
+    transform: translate(-5%, 50%);
+
+    cursor: pointer;
+    z-index: 5;
+    margin-left: 15px;
+  }
+  #header-no-nav {
+    border-top: 8vh solid #160030;
+
+  }
+  main {
+    width: 80%;
+  }
+}
