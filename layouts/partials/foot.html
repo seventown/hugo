@@ -1,22 +1,22 @@
-<aside id="stats">
-  <ul>
-    <li id="status">Status: </li>
-    <li id="wins">Wins: </li>
-    <li id="win-loss-ratio">WLR: </li>
-    <li id="current-title">Current Title: </li>
-    
-  </ul>
 
-</aside>
-</div>
 <footer id="true-footer">
     <div id="left-column">
       <!--youtube, discord, social (with clickable images), -->
-      <p><a href="https://youtube.com">asdf</a></p>
+      <h3 class="footer-heading">media</h3>
+      <ul id="social-list">
+        <li id="discord">discord: seventown#0894</li>
+        <li id="youtube"><a href="https://www.youtube.com/channel/UCfjE3cufEOn0nsSrgmtQKFA">youtube</a></li>
+        <li id="instagram"><a href="https://www.instagram.com/sevaintcappin/">insta</a></li>
+      </ul>
     </div>
     <div id="middle-column">
-      <!--Home, gallery-->
-      <p>ghjk</p>
+      <h3 class="footer-heading">stats</h3>
+      <ul id="stats">
+        <li id="status">online: </li>
+        <li id="wins">wins: </li>
+        <li id="title">title: gm</li>
+        <li id="winstreak">current ws: </li>
+      </ul>
     </div>
     <div id="right-column">
       <!--questions and stuff-->
@@ -46,6 +46,26 @@
     hamburger.addEventListener('click', () => {
       navLinks.classList.toggle("open");
     })
+  </script>
+
+  <script>
+    var status = null;
+    var wins = null;
+    var winstreak = null;
+    
+    fetch('https://api.slothpixel.me/api/players/c306b7419e954f4bb19035cbd3dcf67b') 
+      .then(function(response){
+        return response.json();
+      })
+      .then(function(data){
+        status = data["online"];
+        wins = data.stats.Duels.bridge_duel_wins + data.stats.Duels.bridge_doubles_wins + data.stats.Duels.bridge_four_wins + 132 + 18;
+        winstreak = data.stats.Duels.current_bridge_winstreak;
+        console.log(data);
+        document.getElementById("status").innerHTML = "online: " + status;
+        document.getElementById("wins").innerHTML = "wins: " + wins;
+        document.getElementById("winstreak").innerHTML = "current ws: " + winstreak;
+      })
   </script>
 </body>
 </html>

@@ -4,7 +4,7 @@
 @import url("https://fonts.googleapis.com/css?family=Catamaran");
 body {
   margin: 0;
-  background-color: #eeeeee;
+  background-color: #fcfcfc;
 }
 nav li {
   display: inline;
@@ -82,21 +82,14 @@ nav img {
 
 
 
-#wrapper {
-  display: grid;
-  grid-template-columns: 20% 60% 20%
-}
-
-
 
 
 main {
-  grid-column: 2;
-  display: inline-block;
-  width: 90%;
+  display: block;
+  width: 60%;
   padding-left: 15px;
   padding-right: 15px;
-  padding-bottom: 50px;
+  padding-bottom: 400px;
   margin-bottom: 0px;
   margin: auto;
   background-color: #fcfcfc;
@@ -148,8 +141,14 @@ main em {
   font-style: italic;
   color: #160030;
 }
-
+body {
+  position: relative;
+  min-height: 100vh;
+}
 #true-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
   padding-top: 50px;
   padding-bottom: 50px;
   background-color: #160030;
@@ -162,6 +161,18 @@ main em {
 #true-footer>* {
   place-self: center;
 }
+#true-footer ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+#true-footer div {
+  height: 100%
+}
+.footer-heading {
+  text-align: center;
+}
+
+
 
 main a {color: rgb(50, 0, 107);}
 main a:hover {color: rgb(112, 62, 168);}
@@ -179,28 +190,6 @@ nav>ul>li>a:visited {color: rgb(255, 255, 255); text-decoration: none;}
 #list-of-articles li a {
   font-family: "Merriweather", serif;
   font-size: 18pt;
-}
-
-#stats {
-  font-family: "Open Sans", sans-serif;
-  color: #623a91;
-  font-size: 14pt;
-  width: 50%;
-  padding: 30px;
-  margin: 20px;
-  margin-right: auto;
-  height: 200px;
-  border: 3px #623a91 solid;
-  border-radius: 2em;
-  background-color: #fcfcfc;
-}
-#stats li {
-  list-style-type: none;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-#stats ul {
-  padding-left: 0;
 }
 
 
@@ -256,6 +245,6 @@ nav>ul>li>a:visited {color: rgb(255, 255, 255); text-decoration: none;}
 
   }
   main {
-    width: 80%;
+    width: 90%;
   }
 }
