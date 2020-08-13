@@ -1,6 +1,6 @@
 +++
 date = "2020-08-12T19:11:00-07:00"
-title = "The Complete guide on how to play The Bridge"
+title = "The Bridge starter guide"
 type = "article"
 draft = false
 +++
@@ -147,7 +147,7 @@ Because Bridge doesn’t have fishing rods, we use bows to initiate combos somet
 ![Bow combo on Treehouse](/images/article-specific/bridge-guide/bowcombo.png)
 
 
-[Here’s an example](https://streamable.com/zfoqfy)  of a bow combo. 
+[Here’s an example](https://streamable.com/zfoqfy)&nbsp;of a bow combo. 
 
 ### Tunneling:
 
