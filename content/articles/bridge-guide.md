@@ -52,11 +52,11 @@ Wallrunning is essentially jumping down to the side of the bridge and placing bl
 ![Wallrun on galaxy](/images/article-specific/bridge-guide/wallrun.png)
 
 
-This technique requires **practice** to build muscle memory.
+This technique requires  **practice**  to build muscle memory.
 
-Here’s a video by cesmic on how to wallrun. It’s a great beginner guide and a starting point.
+{{< youtube KPU3EM87uWI >}}
 
-[https://www.youtube.com/watch?v=KPU3EM87uWI](https://www.youtube.com/watch?v=KPU3EM87uWI) (helpful video by cesmic)
+The above video by cesmic is a great guide for beginners on how to wallrun.
 
 
 ### Towering:
@@ -64,20 +64,21 @@ Here’s a video by cesmic on how to wallrun. It’s a great beginner guide and 
 Towering is an incredibly important part of bridge. You’ll want to get the high ground on them as fast as possible, while still stopping them from going around or under you (through tunnels).
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![Tower on Sorcery](/images/article-specific/bridge-guide/tower.png)
 
 
-[https://www.youtube.com/watch?v=7et6xi7xcLc](https://www.youtube.com/watch?v=7et6xi7xcLc) (The start of this video by wez shows how both teams try to get to block limit as fast as possible)
+
+{{< youtube 7et6xi7xcLc >}}
+
+The start of this video by wez shows that both teams try to get to block limit at middle as fast as possible.
 
 Remember to make your tower at least 2 blocks long, don’t pole up just looking down. Place blocks in front of you as you build up. This’ll make it harder to get bowed off and easier to build up to your tower later on.
 
-[https://www.youtube.com/watch?v=-UrjpAMt2aQ](https://www.youtube.com/watch?v=-UrjpAMt2aQ) (here’s another helpful video by cesmic)
+{{< youtube UrjpAMt2aQ >}}
 
-Try to place your tower on your side of the bridge on **non-spawnblock** maps, and on their side on **spawnblock** maps. We’ll cover which maps are which in the map section of the guide.
+Here's yet another helpful video by cesmic on how to tower.
+
+Try to place your tower on your side of the bridge on  **non-spawnblock**  maps, and on their side on  **spawnblock**  maps. We’ll cover which maps are which in the map section of the guide.
 
 
 ### Hippoing:
@@ -87,11 +88,7 @@ The hippo is a really important part of the bridge. If you’re just starting ou
 Essentially, a good hippo blocks off the entrances to your goal, while being easy to defend against other people on.
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![Hippo on Tundra](/images/article-specific/bridge-guide/hippo.png)
 
 
 Only some maps are designated as hippo maps, while the rest are spawnblock maps. We’ll cover this in the map knowledge section of the guide.
@@ -100,11 +97,12 @@ Ideally a fast hippo is better, so knowing how to butterfly-click or jitterclick
 
 There are multiple hippo strats for each map. Some people only hippo the middle (on maps like aquatica/dojo) to get more offensive pressure, while some hippo the entire map.
 
-[https://www.youtube.com/playlist?list=PLYchITE0o2957omYb53ahm65-n0FIUooY](https://www.youtube.com/playlist?list=PLYchITE0o2957omYb53ahm65-n0FIUooY) (bdamja)
+Here's two well-known bridge players and how they hippo each map:
 
-[https://www.youtube.com/watch?v=Fygkadqw7UI](https://www.youtube.com/watch?v=Fygkadqw7UI&t=10s) (trashclient)
+*   [bdamja](https://www.youtube.com/playlist?list=PLYchITE0o2957omYb53ahm65-n0FIUooY)
+*   [TrashClient](https://www.youtube.com/watch?v=Fygkadqw7UI)
 
-The hippo is left to the defender in a doubles or teams match and most sweaty solo matches also start out with both sides doing hippos.
+The hippo is left to the defender in a doubles or teams match and most solo matches also start out with both sides doing hippos.
 
 
 ## Other useful techniques:
@@ -116,10 +114,7 @@ This is a defensive strat that’s map-specific. You’d usually use this on spa
 
 
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
+![Pristine on Galaxy](/images/article-specific/bridge-guide/pristine.png)
 
 
 You start out pristining by putting 3 blocks along the middle and then extend it on each side. Then you can build up the second step and keep going.
@@ -131,11 +126,7 @@ This is the reason people hate spawnblock maps. It’s essentially creating a la
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
-
+![spawnblock on Twilight](/images/article-specific/bridge-guide/spawnblock.png)
 
 
 ### Winging:
@@ -144,10 +135,7 @@ This strategy is pretty overpowered if you get a good wing built. Building a dia
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
+![Wing on Urban](/images/article-specific/bridge-guide/wing.png)
 
 
 To counter wings, you must bridge out to their wing from either the bridge or from your base. From bridge is better so you can take their wing if they do. Your next step is to make more bridges from the center to the wing so that it’s like a platform and better to pvp on.
@@ -159,31 +147,23 @@ Because Bridge doesn’t have fishing rods, we use bows to initiate combos somet
 
 
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![Bow combo on Treehouse](/images/article-specific/bridge-guide/bowcombo.png)
 
 
-![alt_text](images/image7.png "image_tooltip")
-
-
-Here’s an example of a bow combo: 
-
-[https://streamable.com/zfoqfy](https://streamable.com/zfoqfy)
-
+[Here’s an example](https://streamable.com/zfoqfy) of a bow combo. 
 
 ### Tunneling:
 
 
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
+![Tunnelling on atlantis](/images/article-specific/bridge-guide/tunnel.png)
 
 
 
 ## Game Sense:
 
 Game Sense isn’t something you can really explain, it’s something you gain through playing other people. However showing situations of games can help you develop it if you aren’t playing yourself. 
+
 
 **Bridge is a game of pressure.**
 
@@ -194,7 +174,7 @@ Everything you do is to either:
 *   Build offensive pressure
 *   Be able to defend when the other team has offensive pressure.
 
-To be clear, the term **pressure** means the ability to keep the opponent at their base. Having more pressure means they’re less likely to score, so keeping pressure is important, and you’ll see people making callouts about pressure when watching videos.
+To be clear, the term  **pressure**  means the ability to keep the opponent at their base. Having more pressure means they’re less likely to score, so keeping pressure is important, and you’ll see people making callouts about pressure when watching videos.
 
 Here’s a few bridge videos for you to look at:
 
@@ -219,7 +199,7 @@ Teams mode (4v4) have (in general) one defender, one support, and 2 attackers. T
 
 Hippo maps include: **Sorcery, Mr Cheesy, Hyperfrost, Galaxy, Fortress, Flora, Dojo, Chronon, Boo, Atlantis, Aquatica, Urban, Tundra, Treehouse, Sunstone, Stumped.**
 
-Spawnblock maps are: **Lighthouse, Licorice, Condo, Twilight.**
+Spawnblock maps are:  **Lighthouse, Licorice, Condo, Twilight.**
 
 You normally pristine on spawnblock maps and hippo on hippo maps.
 
