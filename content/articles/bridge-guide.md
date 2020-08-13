@@ -8,9 +8,9 @@ draft = false
 
 ## Intro
 
-So I see you’ve figured your way through the duels community into the tiny corner known as &nbsp; **The Bridge**.
+So I see you’ve figured your way through the duels community into the tiny corner known as&nbsp; **The Bridge**.
 
-Either way, if you want to get better or get started this guide is for &nbsp;**you**.
+Either way, if you want to get better or get started this guide is for&nbsp;**you**.
 
 It’s a bit advanced so there are a few prerequisites to consider.
 
@@ -52,7 +52,7 @@ Wallrunning is essentially jumping down to the side of the bridge and placing bl
 ![Wallrun on galaxy](/images/article-specific/bridge-guide/wallrun.png)
 
 
-This technique requires  **practice**  to build muscle memory.
+This technique requires&nbsp; **practice**&nbsp;  to build muscle memory.
 
 {{< youtube KPU3EM87uWI >}}
 
@@ -78,7 +78,7 @@ Remember to make your tower at least 2 blocks long, don’t pole up just looking
 
 Here's yet another helpful video by cesmic on how to tower.
 
-Try to place your tower on your side of the bridge on  **non-spawnblock**  maps, and on their side on  **spawnblock**  maps. We’ll cover which maps are which in the map section of the guide.
+Try to place your tower on your side of the bridge on&nbsp; **non-spawnblock**&nbsp; maps, and on their side on&nbsp; **spawnblock**&nbsp; maps. We’ll cover which maps are which in the map section of the guide.
 
 
 ### Hippoing:
@@ -174,7 +174,7 @@ Everything you do is to either:
 *   Build offensive pressure
 *   Be able to defend when the other team has offensive pressure.
 
-To be clear, the term  **pressure**  means the ability to keep the opponent at their base. Having more pressure means they’re less likely to score, so keeping pressure is important, and you’ll see people making callouts about pressure when watching videos.
+To be clear, the term&nbsp; **pressure**&nbsp; means the ability to keep the opponent at their base. Having more pressure means they’re less likely to score, so keeping pressure is important, and you’ll see people making callouts about pressure when watching videos.
 
 Here’s a few bridge videos for you to look at:
 
@@ -188,7 +188,7 @@ Notice the callouts they’re making and how the team coordinates.
 
 In general,
 
-Doubles teams have one attacker and one defender. The defender **hippos** while the attacker tries to kill the opposing attacker and build pressure. They do this through the fundamentals **towering** and **wallrunning**, as well as **winging**. The first push in a game is really important. While it’s possible to have a comeback, it’s unlikely.
+Doubles teams have one attacker and one defender. The defender&nbsp; **hippos**&nbsp; while the attacker tries to kill the opposing attacker and build pressure. They do this through the fundamentals&nbsp; **towering**&nbsp; and&nbsp; **wallrunning**, as well as&nbsp; **winging**. The first push in a game is really important. While it’s possible to have a comeback, it’s unlikely.
 
 Teams mode (4v4) have (in general) one defender, one support, and 2 attackers. The defender **hippos** while the support kills opposing attackers so the defender has time to hippo. The 2 attackers’ main objective is to get goals and build pressure, but also to kill opposing attackers.
 
@@ -197,9 +197,9 @@ Teams mode (4v4) have (in general) one defender, one support, and 2 attackers. T
 
 <&lt;<&lt;<**THIS GALLERY**>>>>> includes the names and images of all maps.
 
-Hippo maps include: **Sorcery, Mr Cheesy, Hyperfrost, Galaxy, Fortress, Flora, Dojo, Chronon, Boo, Atlantis, Aquatica, Urban, Tundra, Treehouse, Sunstone, Stumped.**
+Hippo maps include:&nbsp; **Sorcery, Mr Cheesy, Hyperfrost, Galaxy, Fortress, Flora, Dojo, Chronon, Boo, Atlantis, Aquatica, Urban, Tundra, Treehouse, Sunstone, and Stumped.**
 
-Spawnblock maps are:  **Lighthouse, Licorice, Condo, Twilight.**
+Spawnblock maps are:&nbsp;**Lighthouse, Licorice, Condo, Twilight.**
 
 You normally pristine on spawnblock maps and hippo on hippo maps.
 
