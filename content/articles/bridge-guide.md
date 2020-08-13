@@ -16,18 +16,14 @@ It’s a bit advanced so there are a few prerequisites to consider.
 
 You must know how to:
 
-
-
 *   Left Click
 *   Right Click
-*   Access your brain
+*   Have played a few games of The Bridge before
 
 If you believe you have these down you’ll be able to tackle some of the most important aspects of the bridge.
 
 
 ## Terminology:
-
-
 
 *   Block limit: the maximum height you can place blocks in the bridge.
 *   Pressure: A general term to specify how often your opponents stay at their base and how often you’re at theirs.
@@ -107,6 +103,7 @@ The hippo is left to the defender in a doubles or teams match and most solo matc
 
 ## Other useful techniques:
 
+If you've gone this far you're already 60% there. The next few techniques (aside from hippoing) are rarely used in regular play, only sweaty matches with good players. Best you learn them anyways.
 
 ### Pristining:
 
@@ -169,8 +166,6 @@ Game Sense isn’t something you can really explain, it’s something you gain t
 
 Everything you do is to either:
 
-
-
 *   Build offensive pressure
 *   Be able to defend when the other team has offensive pressure.
 
@@ -195,8 +190,6 @@ Teams mode (4v4) have (in general) one defender, one support, and 2 attackers. T
 
 ### Map knowledge:
 
-<&lt;<&lt;<**THIS GALLERY**>>>>> includes the names and images of all maps.
-
 Hippo maps include:&nbsp; **Sorcery, Mr Cheesy, Hyperfrost, Galaxy, Fortress, Flora, Dojo, Chronon, Boo, Atlantis, Aquatica, Urban, Tundra, Treehouse, Sunstone, and Stumped.**
 
 Spawnblock maps are:&nbsp;**Lighthouse, Licorice, Condo, Twilight.**
@@ -208,9 +201,9 @@ You normally pristine on spawnblock maps and hippo on hippo maps.
 
 Of course, plain skill isn’t that great a motivator. So why should you be inclined to play this much and try to be this good?
 
-I think the beauty in The Bridge is how niche it is. There’s not as many players as games like Skywars, Bedwars, etc.
+I think the beauty in The Bridge is how&nbsp;**niche**&nbsp;it is. There’s not as many players as games like Skywars, Bedwars, etc.
 
-That’s the best part. Because it’s a small community, it’s really easy to get to know everyone, and to become known yourself. I joined the community a few months after bridge was released and it didn’t take me long to start loving it. The community’s the whole reason I’ve stayed for a few years on this game, and you should give it a shot. Two discord servers stick out to me as a perfect way to start in the community.
+That’s the best part. Because it’s a small community, it’s really easy to get to know everyone, and to become known yourself. I joined the community a few months after bridge was released and it didn’t take me long to start loving it. The community’s the whole reason I’ve stayed for a few years on this game, and you should give it a shot. Two discord servers stick out to me as a perfect way to get to know and make yourself known in the bridge community.
 
 
 ### Bridgers Discord:
