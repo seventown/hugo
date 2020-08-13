@@ -94,6 +94,17 @@ main {
   margin: auto;
   background-color: #fcfcfc;
 }
+
+main li {
+  font-size: 14pt;
+  font-family: "Merriweather", serif;
+  color: rgb(10, 0, 27);
+  margin: 0;
+  padding: 15px;
+  text-indent: 2em;
+  line-height: 1.6;
+}
+
 main h1 {
   font-size: 50pt;
   font-family: "Open Sans", sans-serif;
@@ -115,6 +126,16 @@ main h2 {
   padding-left: 0;
   padding-top: 0;
   text-indent: 25px;
+}
+main h3 {
+  font-size: 24pt;
+  font-family: "Roboto Thin", sans-serif;
+  font-weight: lighter;
+  color: #8b6aa7;
+  padding: 15px;
+  padding-left: 0;
+  padding-top: 0;
+  text-indent: 35px;
 }
 main p {
   font-size: 14pt;
