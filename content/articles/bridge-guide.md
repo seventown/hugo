@@ -8,9 +8,9 @@ draft = false
 
 ## Intro
 
-So I see you’ve figured your way through the duels community into the tiny corner known as **The Bridge**.
+So I see you’ve figured your way through the duels community into the tiny corner known as &nbsp; **The Bridge**.
 
-Either way, if you want to get better or get started this guide is for** you**.
+Either way, if you want to get better or get started this guide is for &nbsp;**you**.
 
 It’s a bit advanced so there are a few prerequisites to consider.
 
@@ -150,7 +150,7 @@ Because Bridge doesn’t have fishing rods, we use bows to initiate combos somet
 ![Bow combo on Treehouse](/images/article-specific/bridge-guide/bowcombo.png)
 
 
-[Here’s an example](https://streamable.com/zfoqfy) of a bow combo. 
+[Here’s an example](https://streamable.com/zfoqfy)  of a bow combo. 
 
 ### Tunneling:
 
