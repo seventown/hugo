@@ -30,11 +30,19 @@ If you believe you have these down you’ll be able to tackle some of the most i
 *   First push: the absolute beginning of the game when the cage drops.
 *   Cage bow: pulling your bow inside the cage and releasing it when the cage drops to try to hit your opponent.
 *   Cage gap: eating a golden apple in the cage. This is important to gain the edge during the pvp fights after the cage drop.
+*   Bypass: Don't kill your opponent and instead go around so they either have to void to defend you or race
+*   Race: A race towards the goal means you and your opponent don't kill each other or void, and instead run to the goal hoping to get there first.
 
 
 ## Fundamentals:
 
 The fundamentals are absolutely important if you want to be anywhere near good at the bridge, and they consist of wallrunning, towering, and hippoing. Below we’ll focus on each topic in detail, along with useful videos demonstrating it.
+
+Some short tips to cover before the major ones:
+
+*   Eat a golden apple in the cage so you have more hp going into the push
+*   Don't be afraid to void when you have to. It's better to void later than never and lose the point
+*   Try out cage bowing, aim a little over their cage. It's mainly muscle memory.
 
 
 ### Wallrunning:
@@ -42,7 +50,6 @@ The fundamentals are absolutely important if you want to be anywhere near good a
 Also known as wallbridging or sidebridging, this is an absolute must-know if you’re ever going to be good. If you don’t know this, don’t worry, it takes only a few hours to get it down, but many hours of practice to master.
 
 Wallrunning is essentially jumping down to the side of the bridge and placing blocks under you as you run towards their goal.
-
 
 
 ![Wallrun on galaxy](/images/article-specific/bridge-guide/wallrun.png)
@@ -219,6 +226,26 @@ The Ranked Bridge discord is definitely an important place for new and old playe
 
 Just remember that it’s okay if you lose elo. It’s about getting experience and learning from other players.
 
-You will need your discord account linked to your hypixel account to play.
-
 Here’s the link to the discord: [https://discord.gg/VvYhjMU](https://discord.gg/VvYhjMU)
+
+{{< youtube DAmAu8c76ac >}}
+
+This video is a good example of a ranked game. You can explore many other ranked games on youtube just by searching "Ranked Bridge"
+
+
+
+## Credits
+
+*   credit to cesmic, bdamja, TrashClient, lowfid, and wez for their great videos
+*   Check out other Bridge Youtubers! 
+    *   [lowfid](https://www.youtube.com/channel/UCnw_wDDx0UMxfRgSk-WDK0A)
+    *   [SpeedToggled](https://www.youtube.com/channel/UC6UVUzoLurMDeS5VuAyNY6g)
+    *   [TrashClient](https://www.youtube.com/channel/UC9m9H_UZkx29489z-yDIurQ)
+    *   [RayDragonfly](https://www.youtube.com/channel/UCBQwtcuLysqqUFfT9GtHXwA)
+    *   [wez](https://www.youtube.com/channel/UCNaNI5YEyo0mfedfkdF4XfA)
+    *   [seventown](https://www.youtube.com/channel/UCfjE3cufEOn0nsSrgmtQKFA)
+    *   [bdamja](https://www.youtube.com/channel/UCJXtY41LLTvJkWaKJ00OUFA)
+
+Last but not least:
+
+**DO NOT WATCH ZYPH FOR BRIDGE ADVICE**
