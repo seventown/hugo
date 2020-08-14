@@ -81,7 +81,7 @@ Remember to make your tower at least 2 blocks long, don’t pole up just looking
 
 Here's yet another helpful video by cesmic on how to tower.
 
-Try to place your tower on your side of the bridge on&nbsp; **non-spawnblock**&nbsp;maps, and on their side on&nbsp; **spawnblock**&nbsp;maps. We’ll cover which maps are which in the map section of the guide.
+You should generally place your tower on&nbsp;**their side of the bridge**. Towering is especially good on&nbsp;**spawnblock maps**&nbsp;because getting the high ground faster is much more important. You should still tower on all maps.
 
 
 ### Hippoing:
@@ -105,7 +105,7 @@ Here's two well-known bridge players and how they hippo each map:
 *   [bdamja](https://www.youtube.com/playlist?list=PLYchITE0o2957omYb53ahm65-n0FIUooY)
 *   [TrashClient](https://www.youtube.com/watch?v=Fygkadqw7UI)
 
-The hippo is left to the defender in a doubles or teams match and most solo matches also start out with both sides doing hippos.
+The hippo is left to the defender in a doubles or teams match. Hippos aren't as important in solo matches, but you should definitely hippo maps like urban, cheesy, and tundra in all scenarios.
 
 
 ## Other useful techniques:
@@ -122,6 +122,8 @@ This is a defensive strat that’s map-specific. You’d usually use this on spa
 
 
 You start out pristining by putting 3 blocks along the middle and then extend it on each side. Then you can build up the second step and keep going.
+
+People don't generally pristine in solo matches. It's normally used in doubles and teams matches.
 
 
 ### Spawnblocking:
@@ -176,7 +178,7 @@ Everything you do is to either:
 *   Build offensive pressure
 *   Be able to defend when the other team has offensive pressure.
 
-To be clear, the term&nbsp; **pressure**&nbsp;means the ability to keep the opponent at their base. Having more pressure means they’re less likely to score, so keeping pressure is important, and you’ll see people making callouts about pressure when watching videos.
+To be clear, the term&nbsp;**pressure**&nbsp;means the ability to keep the opponent at their base. Having more pressure means they’re less likely to score, so keeping pressure is important, and you’ll see people making callouts about pressure when watching videos.
 
 Here’s a few bridge videos for you to look at:
 
@@ -194,8 +196,12 @@ Doubles teams have one attacker and one defender. The defender&nbsp; **hippos**&
 
 Teams mode (4v4) have (in general) one defender, one support, and 2 attackers. The defender&nbsp;**hippos**&nbsp;while the support kills opposing attackers so the defender has time to hippo. The 2 attackers’ main objective is to get goals and build pressure, but also to kill opposing attackers.
 
+In sweaty solo matches, you have a choice to either hippo or attack. The opponent would probably hippo so attacking gives you more high ground while hippoing is better for the long game. Most people who attack first hippo later anyways. The attacking first strategy works on maps like Sorcery and Aquatica, but not so much on Tundra. Hippoing on Urban, Cheesy, and Tundra is a no-brainer because it takes only a few seconds and it's effective.
+
 
 ### Map knowledge:
+
+I have a gallery on bridge-maps&nbsp;[here.](https://seventown.xyz/gallerys/bridge-maps/)
 
 Hippo maps include:&nbsp; **Sorcery, Mr Cheesy, Hyperfrost, Galaxy, Fortress, Flora, Dojo, Chronon, Boo, Atlantis, Aquatica, Urban, Tundra, Treehouse, Sunstone, and Stumped.**
 
