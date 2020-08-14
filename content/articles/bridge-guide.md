@@ -237,7 +237,7 @@ This video is a good example of a ranked game. You can explore many other ranked
 ## Credits
 
 *   credit to cesmic, bdamja, TrashClient, lowfid, and wez for their great videos
-*   Check out other Bridge Youtubers! 
+*   &nbsp;&nbsp;&nbsp;&nbsp;Check out other Bridge Youtubers! 
     *   [lowfid](https://www.youtube.com/channel/UCnw_wDDx0UMxfRgSk-WDK0A)
     *   [SpeedToggled](https://www.youtube.com/channel/UC6UVUzoLurMDeS5VuAyNY6g)
     *   [TrashClient](https://www.youtube.com/channel/UC9m9H_UZkx29489z-yDIurQ)
