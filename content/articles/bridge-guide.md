@@ -8,7 +8,7 @@ draft = false
 
 ## Intro
 
-So I see you’ve figured your way through the duels community into the tiny corner known as&nbsp; **The Bridge**.
+So I see you’ve figured your way through the duels community into the tiny corner known as&nbsp;**The Bridge**.
 
 Either way, if you want to get better or get started this guide is for&nbsp;**you**.
 
@@ -173,12 +173,15 @@ Game Sense isn’t something you can really explain, it’s something you gain t
 
 **Bridge is a game of pressure.**
 
-Everything you do is to either:
-
-*   Build offensive pressure
-*   Be able to defend when the other team has offensive pressure.
-
 To be clear, the term&nbsp;**pressure**&nbsp;means the ability to keep the opponent at their base. Having more pressure means they’re less likely to score, so keeping pressure is important, and you’ll see people making callouts about pressure when watching videos.
+
+Everything you do is to get in the&nbsp;**best position**&nbsp;to score or to defend. The decisions you make very much impact the outcome of the game.
+
+For example, double defending is a strategy where both you and your partner try to kill one opponent. In any case this is a bad decision, because you have no eyes on your other opponent and you'd waste time voiding again to defend them.&nbsp;**You're losing pressure.**&nbsp;Having a designated defender on your team should help avoid double defending.
+
+You'll also avoid situations like&nbsp;[this](https://www.youtube.com/watch?v=eej2kS7SwyI&t=240).
+
+Always remember that there are counters for all of the fundamentals. If the opponent towers over you there's always a way to combat it. You can counter their pushes but they can also counter yours. Playing more games of bridge will help you in decisions.
 
 Here’s a few bridge videos for you to look at:
 
